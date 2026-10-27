@@ -2,7 +2,7 @@
 
 Last updated: October 27, 2026
 
-Hello Custom Wallpapers ("Hello") is an app by Giovanni Monaco. This policy explains what happens to your data when you use it.
+This policy explains what happens to your data when you use Hello Custom Wallpapers ("Hello").
 
 ## In Short
 
@@ -18,11 +18,11 @@ To save a wallpaper, Hello asks only for permission to add photos to your librar
 
 ## Your Settings and Widgets
 
-The choices you make in Hello, like your last colors, style and app icon, and the settings of your widgets are stored on your device. If you back up your device, iOS may include them in your backup, under Apple's privacy policy. Deleting Hello deletes them. Wallpapers you've saved stay in your photo library until you delete them.
+The choices you make in Hello, like your last colors, style and app icon, and the settings of your widgets are stored on your device. They may be included in your device's backups. Deleting Hello deletes them. Wallpapers you've saved stay in your photo library until you delete them.
 
-## Information from Apple
+## Crash Reports
 
-If you choose to share analytics with app developers in Settings › Privacy & Security › Analytics & Improvements, Apple may share crash reports and usage statistics with us. They don't identify you, and we use them only to fix problems and improve Hello. Like every developer, we also see App Store download and sales figures, which don't identify you either. Apple handles this information under its own privacy policy: https://www.apple.com/legal/privacy/
+If you choose to share analytics with app developers in Settings › Privacy & Security › Analytics & Improvements, we may receive crash reports and usage statistics. They don't identify you, and we use them only to fix problems and improve Hello. You can turn this off at any time in the same place.
 
 ## Third Parties
 
